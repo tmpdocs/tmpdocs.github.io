@@ -1,0 +1,29 @@
+Travail à faire :
+
+  1) Rendre tous les exercices C faits jusqu'à présent,
+     dans des fichiers numérotés par séances.
+
+  2) Gestion d'étudiants :
+
+     a) écrire un programme C qui lit un certain
+        nombre d'étudiants (nom, prénom, date de naissance, filière)
+	et stocke ces données dans un fichier ;
+	on utilisera un type étudiant avec typedef ;
+
+     b) écrire un programme C qui lit des données d'étudiants depuis
+        un fichier ; ce programme doit ensuite trier
+	ces étudiants suivant un critère choisi par l'utilisateur :
+	  tri par âge, par nom, par prénom, par filière, etc.
+	les données triées doivent ensuite être affichées
+	et à nouveau sauvegardées dans un autre fichier ;
+
+     c) écrire un programme C qui prend le contenu d'un fichier
+        comme ci-dessous et crée un fichier CVS qui peut ensuite
+	être lu dans Excel (ou équivalent)
+
+     d) les trois programmes, plus un exemple de fichier de données
+        seront rendus avec un fichier texte expliquant les problèmes
+	rencontrés.
+
+
+
